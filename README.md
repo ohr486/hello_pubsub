@@ -1,2 +1,3 @@
 # hello_pubsub
-pubsub demo for phx
+
+demo for scalable phoenix pubsub
